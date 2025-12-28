@@ -101,8 +101,12 @@ If squares with side lengths equal to Fibonacci numbers are arranged in a “spi
 
 ## Connections to Biology (Preview)
 The same mathematical patterns appear in many biological structures:
-- **Phyllotaxis:** The arrangement of leaves, petals, and seeds often follows Fibonacci numbers (e.g., sunflowers, pinecones).
-- **Golden‑ratio proportions:** The lengths of successive segments in branching systems (tree branches, veins in leaves) often approximate $\varphi$.
+
+- **Phyllotaxis:** The arrangement of leaves, petals, and seeds often follows Fibonacci numbers. A classic example is the sunflower head, which typically exhibits 34 spirals in one direction and 55 in the other (two consecutive Fibonacci numbers). The angular displacement between successive florets (divergence angle) is approximately 137.5°, which is related to the golden angle (360°/φ ≈ 222.5°, or equivalently 360° – 222.5° = 137.5°). This arrangement maximizes packing efficiency and is a result of evolutionary adaptation.
+
+- **Golden‑ratio proportions in branching systems:** Many branching structures in nature—such as trees, lungs, river networks, and blood vessels—exhibit self‑similar (fractal) patterns. The ratio of successive branch lengths often approximates φ, and the recursive splitting can be modeled using Fibonacci‑like sequences. For instance, the branching pattern of a tree can be described by a fractal tree where each branch splits into two smaller branches, and the number of branches at each level may follow a Fibonacci sequence. A visual example of fractal branching can be found in many online resources (e.g., the L‑system fractal tree).
+
+- **Other examples:** Pinecones commonly have 5, 8, or 13 spirals; Romanesco broccoli displays a stunning fractal shape that approximates a natural Fibonacci spiral.
 
 These connections will be explored in detail in the biology component of the lesson.
 
